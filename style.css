@@ -1,0 +1,70 @@
+body {
+    background-color:#ffed69;
+}
+
+.sun {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
+
+.tit {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.back {
+    font-weight: 700;
+
+}
+
+.core {
+    position: absolute;
+    top: 230px;
+    left: 240px;
+}
+
+.radiative {
+    position: absolute;
+    left: 210px;
+    top: 165px;
+}
+
+.convection {
+    position: absolute;
+    left: 210px;
+    top: 130px;
+}
+
+.photosphere {
+    position: absolute;
+    left: 220px;
+    top: 100px;
+}
+
+.chromosphere {
+    position: absolute;
+    left: 210px;
+    top: 70px;
+}
+
+.transition {
+    position: absolute;
+    left: 210px;
+    top: 40px;
+}
+
+.corona {
+    position: absolute;
+    left: 230px;
+
+}
